@@ -1,0 +1,121 @@
+{
+  "explanation": "These files remain local. This is not a complete buildable game distribution.",
+  "files": [
+    {
+      "path": "scripts/action_art.py",
+      "reason": "integration, graphics, story or local release packaging"
+    },
+    {
+      "path": "scripts/arcade_art.py",
+      "reason": "integration, graphics, story or local release packaging"
+    },
+    {
+      "path": "scripts/atmosphere_art.py",
+      "reason": "integration, graphics, story or local release packaging"
+    },
+    {
+      "path": "scripts/backup_release.py",
+      "reason": "integration, graphics, story or local release packaging"
+    },
+    {
+      "path": "scripts/combat_art.py",
+      "reason": "integration, graphics, story or local release packaging"
+    },
+    {
+      "path": "scripts/combo_art.py",
+      "reason": "integration, graphics, story or local release packaging"
+    },
+    {
+      "path": "scripts/document_release.py",
+      "reason": "integration, graphics, story or local release packaging"
+    },
+    {
+      "path": "scripts/enemy_art.py",
+      "reason": "integration, graphics, story or local release packaging"
+    },
+    {
+      "path": "scripts/ground_v28.py",
+      "reason": "integration, graphics, story or local release packaging"
+    },
+    {
+      "path": "scripts/jutsu_atlas.py",
+      "reason": "integration, graphics, story or local release packaging"
+    },
+    {
+      "path": "scripts/konoha_art.py",
+      "reason": "integration, graphics, story or local release packaging"
+    },
+    {
+      "path": "scripts/konoha_detail.py",
+      "reason": "integration, graphics, story or local release packaging"
+    },
+    {
+      "path": "scripts/naruto_ui_art.py",
+      "reason": "integration, graphics, story or local release packaging"
+    },
+    {
+      "path": "scripts/portrait_art.py",
+      "reason": "integration, graphics, story or local release packaging"
+    },
+    {
+      "path": "scripts/prepare_custom.py",
+      "reason": "integration, graphics, story or local release packaging"
+    },
+    {
+      "path": "scripts/props_art.py",
+      "reason": "integration, graphics, story or local release packaging"
+    },
+    {
+      "path": "scripts/reaction_art.py",
+      "reason": "integration, graphics, story or local release packaging"
+    },
+    {
+      "path": "scripts/release_manifest.py",
+      "reason": "integration, graphics, story or local release packaging"
+    },
+    {
+      "path": "scripts/run_art.py",
+      "reason": "integration, graphics, story or local release packaging"
+    },
+    {
+      "path": "scripts/run_art_v29.py",
+      "reason": "integration, graphics, story or local release packaging"
+    },
+    {
+      "path": "scripts/scenery_art.py",
+      "reason": "integration, graphics, story or local release packaging"
+    },
+    {
+      "path": "scripts/scenery_v15.py",
+      "reason": "integration, graphics, story or local release packaging"
+    },
+    {
+      "path": "scripts/scenery_v18.py",
+      "reason": "integration, graphics, story or local release packaging"
+    },
+    {
+      "path": "scripts/scenery_v21.py",
+      "reason": "integration, graphics, story or local release packaging"
+    },
+    {
+      "path": "scripts/scenery_v22.py",
+      "reason": "integration, graphics, story or local release packaging"
+    },
+    {
+      "path": "scripts/scenery_v28.py",
+      "reason": "integration, graphics, story or local release packaging"
+    },
+    {
+      "path": "scripts/story-engine.asm",
+      "reason": "integration, graphics, story or local release packaging"
+    },
+    {
+      "path": "scripts/story_art.py",
+      "reason": "integration, graphics, story or local release packaging"
+    },
+    {
+      "path": "scripts/walk_art.py",
+      "reason": "integration, graphics, story or local release packaging"
+    }
+  ]
+}
